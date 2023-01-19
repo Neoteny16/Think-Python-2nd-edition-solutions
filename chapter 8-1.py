@@ -1,0 +1,1 @@
+# Read the documentation, noted most useful methods for strs.
